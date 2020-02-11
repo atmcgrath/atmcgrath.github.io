@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: "Alice's GitHub Pages Site"
 description: "Designed for testing purposes"
+url: 'https://atmcgrath.github.io'
 
 prose:
   siteurl: "https://atmcgrath.github.io"
