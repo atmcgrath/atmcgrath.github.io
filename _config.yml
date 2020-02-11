@@ -1,0 +1,17 @@
+theme: jekyll-theme-cayman
+title: "Alice's GitHub Pages Site"
+description: "Designed for testing purposes"
+
+prose:
+  siteurl: "https://atmcgrath.github.io"
+  media: 'images'
+  ignore:
+    - _config.yml
+  metadata:
+    _posts:
+      - name: "published"
+        field:
+          element: "button"
+          label: "publish this post?"
+          on: true
+          off: false
